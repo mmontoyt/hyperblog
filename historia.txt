@@ -1,4 +1,6 @@
 aquí estoy repasando
 nuevamente
 lo de Git 
-porque ya lo olvidé :S
+porque ya lo olvidé.
+Ahora voy a insertar una nueva línea
+para tener cambios en el archivo
